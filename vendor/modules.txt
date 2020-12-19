@@ -1,0 +1,21 @@
+# github.com/dgryski/go-camellia v0.0.0-20191119043421-69a8a13fb23d
+github.com/dgryski/go-camellia
+# github.com/dgryski/go-idea v0.0.0-20170306091226-d2fb45a411fb
+github.com/dgryski/go-idea
+# github.com/dgryski/go-rc2 v0.0.0-20150621095337-8a9021637152
+github.com/dgryski/go-rc2
+# github.com/nadoo/glider v0.10.0
+github.com/nadoo/glider/common/log
+github.com/nadoo/glider/common/socks
+github.com/nadoo/glider/proxy
+# gitlab.com/yawning/chacha20.git v0.0.0-20190903091407-6d1cb28dc72c
+gitlab.com/yawning/chacha20.git
+gitlab.com/yawning/chacha20.git/internal/api
+gitlab.com/yawning/chacha20.git/internal/hardware
+gitlab.com/yawning/chacha20.git/internal/ref
+# golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/cast5
+golang.org/x/crypto/salsa20/salsa
+# golang.org/x/sys v0.0.0-20200501145240-bc7a7d42d5c3
+golang.org/x/sys/cpu
